@@ -1,0 +1,5 @@
+2026-08-18 14:06:00,285 [INFO] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-08-18 14:06:00,289 [INFO] Added job "run_pipeline" to job store "default"
+2026-08-18 14:06:00,289 [INFO] Scheduler started
+2026-08-18 14:06:23,025 [INFO] ============================================================
+2026-08-18 14:06:23,046 [INFO] ============================================================
